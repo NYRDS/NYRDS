@@ -1,0 +1,50 @@
+{
+  "known_mods": {
+    "common": [
+      {
+        "name": "PD Mini",
+        "url": "https://github.com/NYRDS/PD_mini-RPD-MOD/archive/master.zip",
+        "version": 13,
+        "rpdVersion": 0
+      },
+      {
+        "name": "Maze",
+        "url": "https://github.com/NYRDS/Maze-RPD-MOD/archive/master.zip",
+        "version": 24,
+        "rpdVersion": 599
+      },
+      {
+        "name": "PD Vanila",
+        "url": "https://github.com/DeadDie44/RPD-Vanilla-Mod/archive/master.zip",
+        "version": 10,
+        "rpdVersion": 0
+      },
+      {
+        "name": "Faith",
+        "url": "https://github.com/NYRDS/RPD-Faith-Mod/archive/v5.zip",
+        "version": 5,
+        "rpdVersion": 610
+      }
+    ],
+    "ru": [
+      {
+        "name": "The Dungeon of Heroes",
+        "url": "https://github.com/NYRDS/The-dungeon-of-heroes-RPD-MOD/archive/tdoh_bi_2.zip",
+        "version": 2,
+        "rpdVersion": 610
+      },
+      {
+        "name": "D.U.N.G.E.O.N",
+        "url": "https://github.com/NYRDS/D.U.N.G.E.O.N-RPD-Mod/archive/v6.zip",
+        "version": 6,
+        "rpdVersion": 600
+      },
+      {
+        "name": "Conundrum",
+        "url": "https://github.com/NYRDS/Conundrum/archive/master.zip",
+        "version": 22,
+        "rpdVersion": 568
+      }
+    ]
+  }
+}
