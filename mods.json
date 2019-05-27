@@ -3,25 +3,25 @@
     "common": [
       {
         "name": "PD Mini",
-        "url": "https://github.com/NYRDS/PD_mini-RPD-MOD/archive/master.zip",
+        "url": "https://nyrds.github.io/NYRDS/common/PD_mini.zip",
         "version": 13,
         "rpdVersion": 0
       },
       {
         "name": "Maze",
-        "url": "https://github.com/NYRDS/Maze-RPD-MOD/archive/master.zip",
+        "url": "https://nyrds.github.io/NYRDS/common/Maze.zip",
         "version": 24,
         "rpdVersion": 599
       },
       {
         "name": "PD Vanila",
-        "url": "https://github.com/DeadDie44/RPD-Vanilla-Mod/archive/master.zip",
+        "url": "https://nyrds.github.io/NYRDS/common/PD_Vanilla.zip",
         "version": 10,
         "rpdVersion": 0
       },
       {
         "name": "Faith",
-        "url": "https://github.com/NYRDS/RPD-Faith-Mod/archive/v5.zip",
+        "url": "https://nyrds.github.io/NYRDS/common/Faith_v5.zip",
         "version": 5,
         "rpdVersion": 610
       }
@@ -29,21 +29,27 @@
     "ru": [
       {
         "name": "The Dungeon of Heroes",
-        "url": "https://github.com/NYRDS/The-dungeon-of-heroes-RPD-MOD/archive/tdoh_bi_2.zip",
+        "url": "https://nyrds.github.io/NYRDS/ru/The-dungeon-of-heroes_v2.zip",
         "version": 2,
         "rpdVersion": 610
       },
       {
         "name": "D.U.N.G.E.O.N",
-        "url": "https://github.com/NYRDS/D.U.N.G.E.O.N-RPD-Mod/archive/v6.zip",
+        "url": "https://nyrds.github.io/NYRDS/ru/D.U.N.G.E.O.N.zip",
         "version": 6,
         "rpdVersion": 600
       },
       {
         "name": "Conundrum",
-        "url": "https://github.com/NYRDS/Conundrum/archive/master.zip",
+        "url": "https://nyrds.github.io/NYRDS/ru/Conundrum.zip",
         "version": 22,
         "rpdVersion": 568
+      },
+      {
+        "name": "The epic dungeon",
+        "url": "https://nyrds.github.io/NYRDS/ru/The_epic_dungeon.zip",
+        "version": 5,
+        "rpdVersion": 667
       }
     ]
   }
