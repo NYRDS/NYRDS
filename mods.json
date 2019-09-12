@@ -4,7 +4,7 @@
       {
         "name": "PD Mini",
         "url": "https://nyrds.github.io/NYRDS/common/PD_mini.zip",
-        "version": 14,
+        "version": 15,
         "rpdVersion": 0
       },
       {
@@ -14,9 +14,9 @@
         "rpdVersion": 599
       },
       {
-        "name": "PD Vanila",
+        "name": "PD Vanilla",
         "url": "https://nyrds.github.io/NYRDS/common/PD_Vanilla.zip",
-        "version": 10,
+        "version": 11,
         "rpdVersion": 0
       },
       {
