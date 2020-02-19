@@ -24,6 +24,12 @@
         "url": "https://nyrds.github.io/NYRDS/common/Faith_v5.zip",
         "version": 5,
         "rpdVersion": 610
+      },
+      {
+        "name": "Remixed Additions",
+        "url": "https://nyrds.github.io/NYRDS/common/Remixed_Additions.zip",
+        "version": 2,
+        "rpdVersion": 845
       }
     ],
     "ru": [
