@@ -28,8 +28,8 @@
       {
         "name": "Remixed Additions",
         "url": "https://nyrds.github.io/NYRDS/common/Remixed_Additions.zip",
-        "version": 4,
-        "rpdVersion": 845
+        "version": 6,
+        "rpdVersion": 868
       }
     ],
     "ru": [
@@ -54,8 +54,8 @@
       {
         "name": "The epic dungeon",
         "url": "https://nyrds.github.io/NYRDS/ru/The_epic_dungeon.zip",
-        "version": 14,
-        "rpdVersion":  848
+        "version": 15,
+        "rpdVersion":  868
       }
     ]
   }
