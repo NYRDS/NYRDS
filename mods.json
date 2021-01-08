@@ -8,6 +8,12 @@
         "rpdVersion": 0
       },
       {
+        "name": "HiFi DLC",
+        "url": "https://nyrds.github.io/NYRDS/common/HiFiDLC.rpd",
+        "version": 1,
+        "rpdVersion": 966
+      },
+      {
         "name": "Maze",
         "url": "https://nyrds.github.io/NYRDS/common/Maze.zip",
         "version": 24,
