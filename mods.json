@@ -62,6 +62,12 @@
         "url": "https://nyrds.github.io/NYRDS/ru/The_epic_dungeon.zip",
         "version": 24,
         "rpdVersion":  929
+      },
+      {
+        "name": "Remixed RPG",
+        "url": "https://nyrds.github.io/NYRDS/ru/Remixed_RPG.zip",
+        "version": 15,
+        "rpdVersion":  1006
       }
     ]
   }
