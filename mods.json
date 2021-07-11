@@ -20,12 +20,6 @@
         "rpdVersion": 599
       },
       {
-        "name": "PD Vanilla",
-        "url": "https://nyrds.github.io/NYRDS/common/PD_Vanilla.zip",
-        "version": 11,
-        "rpdVersion": 0
-      },
-      {
         "name": "Faith",
         "url": "https://nyrds.github.io/NYRDS/common/Faith_v5.zip",
         "version": 6,
@@ -36,6 +30,18 @@
         "url": "https://nyrds.github.io/NYRDS/common/Remixed_Additions.zip",
         "version": 15,
         "rpdVersion": 1006
+      },
+      {
+        "name": "Remixed RPG",
+        "url": "https://nyrds.github.io/NYRDS/common/Remixed_RPG.zip",
+        "version": 17,
+        "rpdVersion":  1006
+      },
+      {
+        "name": "PD Vanilla",
+        "url": "https://nyrds.github.io/NYRDS/common/PD_Vanilla.zip",
+        "version": 11,
+        "rpdVersion": 0
       }
     ],
     "ru": [
@@ -62,12 +68,6 @@
         "url": "https://nyrds.github.io/NYRDS/ru/The_epic_dungeon.zip",
         "version": 24,
         "rpdVersion":  929
-      },
-      {
-        "name": "Remixed RPG",
-        "url": "https://nyrds.github.io/NYRDS/common/Remixed_RPG.zip",
-        "version": 17,
-        "rpdVersion":  1006
       }
     ]
   }
