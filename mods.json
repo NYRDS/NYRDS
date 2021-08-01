@@ -2,22 +2,10 @@
   "known_mods": {
     "common": [
       {
-        "name": "PD Mini",
-        "url": "https://nyrds.github.io/NYRDS/common/PD_mini.zip",
-        "version": 15,
-        "rpdVersion": 0
-      },
-      {
         "name": "HiFi DLC",
         "url": "https://nyrds.github.io/NYRDS/common/HiFiDLC.rpd",
         "version": 2,
         "rpdVersion": 964
-      },
-      {
-        "name": "Maze",
-        "url": "https://nyrds.github.io/NYRDS/common/Maze.zip",
-        "version": 24,
-        "rpdVersion": 599
       },
       {
         "name": "Faith",
@@ -38,6 +26,18 @@
         "rpdVersion":  1006
       },
       {
+        "name": "Maze",
+        "url": "https://nyrds.github.io/NYRDS/common/Maze.zip",
+        "version": 24,
+        "rpdVersion": 599
+      },
+      {
+        "name": "PD Mini",
+        "url": "https://nyrds.github.io/NYRDS/common/PD_mini.zip",
+        "version": 15,
+        "rpdVersion": 0
+      },
+      {
         "name": "PD Vanilla",
         "url": "https://nyrds.github.io/NYRDS/common/PD_Vanilla.zip",
         "version": 11,
@@ -46,10 +46,10 @@
     ],
     "ru": [
       {
-        "name": "The Dungeon of Heroes",
-        "url": "https://nyrds.github.io/NYRDS/ru/The-dungeon-of-heroes_v2.zip",
-        "version": 2,
-        "rpdVersion": 610
+        "name": "The epic dungeon",
+        "url": "https://nyrds.github.io/NYRDS/ru/The_epic_dungeon.zip",
+        "version": 26,
+        "rpdVersion":  1006
       },
       {
         "name": "D.U.N.G.E.O.N",
@@ -64,10 +64,10 @@
         "rpdVersion": 568
       },
       {
-        "name": "The epic dungeon",
-        "url": "https://nyrds.github.io/NYRDS/ru/The_epic_dungeon.zip",
-        "version": 24,
-        "rpdVersion":  929
+        "name": "The Dungeon of Heroes",
+        "url": "https://nyrds.github.io/NYRDS/ru/The-dungeon-of-heroes_v2.zip",
+        "version": 2,
+        "rpdVersion": 610
       }
     ]
   }
