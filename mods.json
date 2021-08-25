@@ -26,6 +26,12 @@
         "rpdVersion":  1006
       },
       {
+        "name": "The epic dungeon",
+        "url": "https://nyrds.net/rpd/mods/The_epic_dungeon.zip",
+        "version": 28,
+        "rpdVersion":  1006
+      },
+      {
         "name": "Maze",
         "url": "https://nyrds.github.io/NYRDS/common/Maze.zip",
         "version": 24,
@@ -45,12 +51,6 @@
       }
     ],
     "ru": [
-      {
-        "name": "The epic dungeon",
-        "url": "https://nyrds.net/rpd/mods/The_epic_dungeon.zip",
-        "version": 28,
-        "rpdVersion":  1006
-      },
       {
         "name": "D.U.N.G.E.O.N",
         "url": "https://nyrds.github.io/NYRDS/ru/D.U.N.G.E.O.N.zip",
