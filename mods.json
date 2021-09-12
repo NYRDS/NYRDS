@@ -32,6 +32,12 @@
         "rpdVersion":  1006
       },
       {
+        "name": "The epic dungeon test",
+        "url": "https://nyrds.net/rpd/mods/The_epic_dungeon_v_30.zip",
+        "version": 30,
+        "rpdVersion":  1054
+      },
+      {
         "name": "Maze",
         "url": "https://nyrds.github.io/NYRDS/common/Maze.zip",
         "version": 24,
