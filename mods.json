@@ -26,6 +26,12 @@
         "rpdVersion":  1006
       },
       {
+        "name": "Remixed RPG Test",
+        "url": "https://nyrds.net/rpd/mods/Remixed_RPG.zip",
+        "version": 24,
+        "rpdVersion":  1057
+      },
+      {
         "name": "The epic dungeon",
         "url": "https://nyrds.net/rpd/mods/The_epic_dungeon_v_30.zip",
         "version": 30,
