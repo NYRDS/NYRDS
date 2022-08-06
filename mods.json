@@ -3,49 +3,49 @@
     "common": [
       {
         "name": "HiFi DLC",
-        "url": "http://nyrds.net/rpd/mods/HiFiDLC.rpd",
+        "url": "https://nyrds.net/rpd/mods/HiFiDLC.rpd",
         "version": 2,
         "rpdVersion": 964
       },
       {
         "name": "Faith",
-        "url": "http://nyrds.net/rpd/mods/Faith_v5.zip",
+        "url": "https://nyrds.net/rpd/mods/Faith_v5.zip",
         "version": 6,
         "rpdVersion": 610
       },
       {
         "name": "Remixed Additions",
-        "url": "http://nyrds.net/rpd/mods/Remixed_Additions_v18.zip",
+        "url": "https://nyrds.net/rpd/mods/Remixed_Additions_v18.zip",
         "version": 18,
         "rpdVersion": 1006
       },
       {
         "name": "Remixed RPG",
-        "url": "http://nyrds.net/rpd/mods/Remixed_RPG_v25.1.zip",
+        "url": "https://nyrds.net/rpd/mods/Remixed_RPG_v25.1.zip",
         "version": 25,
         "rpdVersion":  1056
       },
       {
         "name": "The epic dungeon",
-        "url": "http://nyrds.net/rpd/mods/The_epic_dungeon_v42.zip",
+        "url": "https://nyrds.net/rpd/mods/The_epic_dungeon_v42.zip",
         "version": 42,
         "rpdVersion":  1111
       },
       {
         "name": "Maze",
-        "url": "http://nyrds.net/rpd/mods/Maze.zip",
+        "url": "https://nyrds.net/rpd/mods/Maze.zip",
         "version": 24,
         "rpdVersion": 599
       },
       {
         "name": "PD Mini",
-        "url": "http://nyrds.net/rpd/mods/PD_mini.zip",
+        "url": "https://nyrds.net/rpd/mods/PD_mini.zip",
         "version": 15,
         "rpdVersion": 0
       },
       {
         "name": "PD Vanilla",
-        "url": "http://nyrds.net/rpd/mods/PD_Vanilla.zip",
+        "url": "https://nyrds.net/rpd/mods/PD_Vanilla.zip",
         "version": 11,
         "rpdVersion": 0
       }
@@ -53,19 +53,19 @@
     "ru": [
       {
         "name": "D.U.N.G.E.O.N",
-        "url": "http://nyrds.net/rpd/mods/D.U.N.G.E.O.N_v9.zip",
+        "url": "https://nyrds.net/rpd/mods/D.U.N.G.E.O.N_v9.zip",
         "version": 9,
         "rpdVersion": 929
       },
       {
         "name": "Conundrum",
-        "url": "http://nyrds.net/rpd/mods/Conundrum.zip",
+        "url": "https://nyrds.net/rpd/mods/Conundrum.zip",
         "version": 24,
         "rpdVersion": 568
       },
       {
         "name": "The Dungeon of Heroes",
-        "url": "http://nyrds.net/rpd/mods/The-dungeon-of-heroes_v2.zip",
+        "url": "https://nyrds.net/rpd/mods/The-dungeon-of-heroes_v2.zip",
         "version": 2,
         "rpdVersion": 610
       }
