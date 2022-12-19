@@ -72,6 +72,18 @@
     ]
   },
   "info": {
+    "Vanilla": {
+      "en": {
+        "Mod_Name": "Vanilla",
+        "Mod_Description": "Bringing classic PD expirience back to Remixed!",
+        "Mod_Author": "NYRDS"
+      },
+      "ru": {
+        "Mod_Name": "Vanilla",
+        "Mod_Description": "Возвращаем классическую PD в Remixed!",
+        "Mod_Author": "NYRDS"
+      }
+    },
     "The epic dungeon": {
       "en": {
         "Mod_Name": "The epic dungeon",
@@ -107,6 +119,25 @@
         "Mod_Author": "Nazipov Insaf(Mongol)",
         "Mod_Email": "insafnazipov2005@gmail.com",
         "Mod_Link": "https://vk.com/remixed_rpg"
+      },
+      "ru": {
+        "Mod_Name": "Remixed RPG",
+        "Mod_Description": "Этот мод добавляет механики RPG в игру. GitHub: https://github.com/MiniMongol/RemixedRPG",
+        "Mod_Author": "Назипов Инсаф(Mongol)",
+        "Mod_Email": "insafnazipov2005@gmail.com",
+        "Mod_Link": "https://vk.com/remixed_rpg"
+      }
+    },
+    "Faith": {
+      "en": {
+        "Mod_Name": "Faith",
+        "Mod_Description": "Trying to create something...",
+        "Mod_Author": "Pavel Provotorov&Neyromantik"
+      },
+      "ru": {
+        "Mod_Name": "Faith",
+        "Mod_Description": "Попытка создать нечто...",
+        "Mod_Author": "Pavel Provotorov&Neyromantik"
       }
     },
     "Remixed Additions": {
@@ -131,6 +162,28 @@
         "Mod_Name": "HiFi DLC",
         "Mod_Description": "Этот мод содержит набор треков, созданных командой Shinori's Team специально для Remixed Dungeon, а также варианты оригинальных треков Remixed Dungeon с повышенным битрейтом.",
         "Mod_Author": "Shinori's Team & NYRDS"
+      }
+    },
+    "Conundrum": {
+      "ru": {
+        "Mod_Name": "Conundrum",
+        "Mod_Description": "История одного короля.",
+        "Mod_Author": "Пьер Шрёдингер",
+        "Mod_Link": "https://vk.com/conundrum_rpd"
+      }
+    },
+    "Maze": {
+      "en": {
+        "Mod_Name": "Maze",
+        "Mod_Description": "Modification for RPD, full of mysteries, mazes, puzzles & Predesigned-levels. Even the authors question the reality of the passage without saving.",
+        "Mod_Author": "Nice(no) ogres, timelords, demonic eyes, eagles, skeleton welders, crawfish in glasses, cyclops, wolves and other very eccentric persons",
+        "Mod_Link": "https://vk.com/rpdmodmaze ; https://www.reddit.com/user/Eccentric_eye ; naKaxoHTac@gmail.com"
+      },
+      "ru": {
+        "Mod_Name": "Maze",
+        "Mod_Description": "Модификация RPD, полная загадок, лабиринтов, головоломок и Predesigned-этажей. Даже создатели сомневаются в реальности прохождения без сохранений.",
+        "Mod_Author": "Добрые(нет) огры, таймлорды, глаза, орлы, скелеты-сварщики, раки в очках, циклопы, волки и прочие весьма эксцентричные личности",
+        "Mod_Link": "https://vk.com/rpdmodmaze ; naKaxoHTac@gmail.com"
       }
     },
     "The Dungeon of Heroes": {
