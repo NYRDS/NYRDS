@@ -36,18 +36,6 @@
         "url": "http://nyrds.net/rpd/mods/Maze.zip",
         "version": 24,
         "rpdVersion": 599
-      },
-      {
-        "name": "PD Mini",
-        "url": "http://nyrds.net/rpd/mods/PD_mini.zip",
-        "version": 15,
-        "rpdVersion": 0
-      },
-      {
-        "name": "PD Vanilla",
-        "url": "http://nyrds.net/rpd/mods/PD_Vanilla.zip",
-        "version": 11,
-        "rpdVersion": 0
       }
     ],
     "ru": [
@@ -62,12 +50,6 @@
         "url": "http://nyrds.net/rpd/mods/Conundrum.zip",
         "version": 24,
         "rpdVersion": 568
-      },
-      {
-        "name": "The Dungeon of Heroes",
-        "url": "http://nyrds.net/rpd/mods/The-dungeon-of-heroes_v2.zip",
-        "version": 2,
-        "rpdVersion": 610
       }
     ]
   },
