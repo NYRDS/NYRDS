@@ -10,7 +10,7 @@
       {
         "name": "Remixed RPG",
         "url": "http://nyrds.net/rpd/mods/Remixed_RPG_v26.zip",
-        "version": 25,
+        "version": 26,
         "rpdVersion":  1155
       },
       {
@@ -75,7 +75,7 @@
     "Vanilla": {
       "en": {
         "Mod_Name": "Vanilla",
-        "Mod_Description": "Bringing classic PD expirience back to Remixed!",
+        "Mod_Description": "Bringing classic PD experience back to Remixed!",
         "Mod_Author": "NYRDS"
       },
       "ru": {
