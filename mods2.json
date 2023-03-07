@@ -8,6 +8,12 @@
         "rpdVersion": 964
       },
       {
+        "name": "Remixed RPG",
+        "url": "http://nyrds.net/rpd/mods/Remixed_RPG_v26.zip",
+        "version": 25,
+        "rpdVersion":  1155
+      },
+      {
         "name": "Faith",
         "url": "http://nyrds.net/rpd/mods/Faith_v5.zip",
         "version": 6,
@@ -18,12 +24,6 @@
         "url": "http://nyrds.net/rpd/mods/Remixed_Additions_v18.zip",
         "version": 18,
         "rpdVersion": 1006
-      },
-      {
-        "name": "Remixed RPG",
-        "url": "http://nyrds.net/rpd/mods/Remixed_RPG_v25.1.zip",
-        "version": 25,
-        "rpdVersion": 1056
       },
       {
         "name": "The epic dungeon",
