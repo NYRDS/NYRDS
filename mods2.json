@@ -11,7 +11,7 @@
         "name": "Remixed RPG",
         "url": "http://nyrds.net/rpd/mods/Remixed_RPG_v27.zip",
         "version": 27,
-        "rpdVersion":  1155
+        "rpdVersion": 1155
       },
       {
         "name": "Faith",
@@ -27,8 +27,8 @@
       },
       {
         "name": "The epic dungeon",
-        "url": "http://nyrds.net/rpd/mods/The_epic_dungeon_v42.zip",
-        "version": 42,
+        "url": "http://nyrds.net/rpd/mods/The_epic_dungeon_v43_1.zip",
+        "version": 43,
         "rpdVersion": 1111
       },
       {
@@ -54,18 +54,6 @@
     ]
   },
   "info": {
-    "Vanilla": {
-      "en": {
-        "Mod_Name": "Vanilla",
-        "Mod_Description": "Bringing classic PD experience back to Remixed!",
-        "Mod_Author": "NYRDS"
-      },
-      "ru": {
-        "Mod_Name": "Vanilla",
-        "Mod_Description": "Возвращаем классическую PD в Remixed!",
-        "Mod_Author": "NYRDS"
-      }
-    },
     "The epic dungeon": {
       "en": {
         "Mod_Name": "The epic dungeon",
@@ -80,24 +68,10 @@
         "Mod_Link": "https://m.vk.com/topic-84207769_32141866?offset=last#last"
       }
     },
-    "PD Mini": {
-      "en": {
-        "Mod_Name": "PD Mini",
-        "Mod_Description": "Remixed Pixel Dungeon graphics is not enough old-school for you?",
-        "Mod_Author": "Vadim Petin",
-        "Mod_Link": "https://vk.com/id284137538"
-      },
-      "ru": {
-        "Mod_Name": "PD Mini",
-        "Mod_Description": "Графика Remixed Pixel Dungeon не достаточно олдскульная для вас?",
-        "Mod_Author": "Вадим Петин",
-        "Mod_Link": "https://vk.com/id284137538"
-      }
-    },
     "Remixed RPG": {
       "en": {
         "Mod_Name": "Remixed RPG",
-        "Mod_Description": "This mod adds rpg mechanics to the game. GitHub: https://github.com/MiniMongol/RemixedRPG",
+        "Mod_Description": "This mod adds RPG mechanics to the game. Mainly a skill system, stats management & makeshift equipment! GitHub: https://github.com/MiniMongol/RemixedRPG",
         "Mod_Author": "Nazipov Insaf(Mongol)",
         "Mod_Email": "insafnazipov2005@gmail.com",
         "Mod_Link": "https://vk.com/remixed_rpg"
@@ -166,14 +140,6 @@
         "Mod_Description": "Модификация RPD, полная загадок, лабиринтов, головоломок и Predesigned-этажей. Даже создатели сомневаются в реальности прохождения без сохранений.",
         "Mod_Author": "Добрые(нет) огры, таймлорды, глаза, орлы, скелеты-сварщики, раки в очках, циклопы, волки и прочие весьма эксцентричные личности",
         "Mod_Link": "https://vk.com/rpdmodmaze ; naKaxoHTac@gmail.com"
-      }
-    },
-    "The Dungeon of Heroes": {
-      "ru": {
-        "Mod_Name": "The Dungeon of Heroes",
-        "Mod_Description": "Представьте что не вы одни спустились в подземелье. Сотни смельчаков хотят завладеть силой амулета. И вам придется сражаться за него.",
-        "Mod_Author": "Вадим Петин",
-        "Mod_Link": "https://vk.com/id284137538"
       }
     }
   }
